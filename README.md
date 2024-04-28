@@ -10,3 +10,6 @@
 
 ## Init Project 
 'firebase init'
+
+## Deploy Files 
+'firebase deploy'
